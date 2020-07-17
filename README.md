@@ -24,5 +24,5 @@ Hi, I'm Roy Barber, a passionate self-taught UI/UX designer and frontEnd web dev
 
 
 <a href="https://github.com/roybarber/static-starter">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=roybarber&repo=static-starter.github.io&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=roybarber&repo=github.com/roybarber/static-starter&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>

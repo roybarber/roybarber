@@ -24,6 +24,4 @@ Hi, I'm Roy Barber, a passionate self-taught UI/UX designer and frontEnd web dev
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=roybarber&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<a href="https://github.com/roybarber/static-starter">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=roybarber&repo=static-starter)" />
-</a>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)

@@ -1,4 +1,4 @@
-### Hi there, I'm [Roy!](https://roybarber.github.io) 👋
+### Hi there, I'm [Roy!](https://roybarber.com) 👋
 
 <br />
 

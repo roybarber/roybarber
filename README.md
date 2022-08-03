@@ -4,8 +4,8 @@
 
 Hi, I'm Roy Barber, a passionate self-taught UI/UX designer and frontEnd web developer from the U.K.
 
-- 🔭 I’m currently working on  [eduly](https://eduly.co.uk)
-- 🌱 I’m currently learning Laravel to become a full stack dev.
+- 🔭 I’m working for  [dotcentric](https://dotcentric.co.uk) as a Front End Technical Lead
+- 🌱 I’m currently focusing in headless CMS and commerce.
 - 👯 I’m looking to collaborate on my [Static Starter](https://github.com/roybarber/static-starter)
 - 💬 Ask me anything [here](https://github.com/roybarber/roybarber/issues)
 - ❄️ Arctic Code Vault Contributor

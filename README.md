@@ -6,7 +6,7 @@ Hi, I'm Roy Barber, a passionate self-taught UI/UX designer and frontEnd web dev
 
 - 🔭 I’m working for  [dotcentric](https://dotcentric.co.uk) as a Front End Technical Lead
 - 🌱 I’m currently focusing in headless CMS and commerce.
-- 👯 I’m looking to collaborate on my [Static Starter](https://github.com/roybarber/static-starter)
+- 👯 I’m looking to collaborate on my [Static Starter](https://github.com/roybarber/static-starter) & [Vite Static Starter](https://github.com/roybarber/vite-static-starter)
 - 💬 Ask me anything [here](https://github.com/roybarber/roybarber/issues)
 - ❄️ Arctic Code Vault Contributor
 
@@ -25,3 +25,4 @@ Hi, I'm Roy Barber, a passionate self-taught UI/UX designer and frontEnd web dev
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=roybarber&repo=static-starter)](https://github.com/roybarber/static-starter)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=roybarber&repo=vite-static-starter)](https://github.com/roybarber/vite-static-starter)

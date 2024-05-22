@@ -2,13 +2,13 @@
 
 <br />
 
-Hi, I'm Roy Barber, a passionate self-taught UI/UX designer and frontEnd web developer from the U.K.
+Hi, I'm Roy Barber, a passionate self-taught developer from the U.K.
 
-- 🔭 I’m working for  [dotcentric](https://dotcentric.co.uk) as a Front End Technical Lead
-- 🌱 I’m currently focusing in headless CMS and commerce.
+- 🔭 I’m working for  [HappyDance](https://happydance.love) as the Head of Development
+- 🌱 I’m currently focusing in SaaS growth and product development / roadmaps.
 - 👯 I’m looking to collaborate on my [Static Starter](https://github.com/roybarber/static-starter) & [Vite Static Starter](https://github.com/roybarber/vite-static-starter)
 - 💬 Ask me anything [here](https://github.com/roybarber/roybarber/issues)
-- ❄️ Arctic Code Vault Contributor
+- ❄️ 2x Arctic Code Vault Contributor
 
 **Languages and Tools:**  
 

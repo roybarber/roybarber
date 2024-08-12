@@ -4,7 +4,7 @@
 
 Hi, I'm Roy Barber, a passionate self-taught developer, from the U.K.
 
-- 🔭 I’m working for  [HappyDance](https://happydance.love) as the Head of Development
+- 🔭 I’m working for  [HappyDance](https://happydance.love) as the Head of Development (Engineering)
 - 🌱 I’m currently focusing in SaaS growth and product development / roadmaps.
 - 👯 I’m looking to collaborate on my [Static Starter](https://github.com/roybarber/static-starter) & [Vite Static Starter](https://github.com/roybarber/vite-static-starter)
 - 💬 Ask me anything [here](https://github.com/roybarber/roybarber/issues)
